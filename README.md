@@ -6,6 +6,8 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ## Statistics:
 [![trophy](https://github-profile-trophy.vercel.app/?username=DataRonin&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=DataRonin&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DataRonin&theme=onedark&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataRonin&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
