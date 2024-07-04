@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi%2C+you+can+call+me+MLRonin)](https://git.io/typing-svg)
 ## About me:
-
+#### I am 16 years old, interested in artificial intelligence, machine learning, and data science.
 ### Languages: 
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
